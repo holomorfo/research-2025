@@ -1,0 +1,584 @@
+[
+    {
+        "year": 2017,
+        "name": "Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417427"
+    },
+    {
+        "year": 2017,
+        "name": "The Significance of the Low Complexity Dimension in Music Similarity Judgements.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416400"
+    },
+    {
+        "year": 2017,
+        "name": "Towards Computational Modeling of the Ungrammatical in a Raga Performance.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417349"
+    },
+    {
+        "year": 2017,
+        "name": "A Collection of Music Scores for Corpus Based Jingju Singing Research.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416346"
+    },
+    {
+        "year": 2017,
+        "name": "Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416498"
+    },
+    {
+        "year": 2017,
+        "name": "Deep Salience Representations for F0 Estimation in Polyphonic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417937"
+    },
+    {
+        "year": 2017,
+        "name": "An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415588"
+    },
+    {
+        "year": 2017,
+        "name": "Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417018"
+    },
+    {
+        "year": 2017,
+        "name": "Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416376"
+    },
+    {
+        "year": 2017,
+        "name": "The Music Listening Histories Dataset.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417499"
+    },
+    {
+        "year": 2017,
+        "name": "Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417193"
+    },
+    {
+        "year": 2017,
+        "name": "Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417807"
+    },
+    {
+        "year": 2017,
+        "name": "Video-Based Vibrato Detection and Analysis for Polyphonic String Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417249"
+    },
+    {
+        "year": 2017,
+        "name": "Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417137"
+    },
+    {
+        "year": 2017,
+        "name": "Transfer Learning for Music Classification and Regression Tasks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418015"
+    },
+    {
+        "year": 2017,
+        "name": "Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415136"
+    },
+    {
+        "year": 2017,
+        "name": "A Formalization of Relative Local Tempo Variations in Collections of Performances.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415052"
+    },
+    {
+        "year": 2017,
+        "name": "Sampling Variations of Sequences for Structured Music Generation.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416588"
+    },
+    {
+        "year": 2017,
+        "name": "Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417567"
+    },
+    {
+        "year": 2017,
+        "name": "Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415186"
+    },
+    {
+        "year": 2017,
+        "name": "Structured Training for Large-Vocabulary Chord Recognition.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414880"
+    },
+    {
+        "year": 2017,
+        "name": "Modeling and Digitizing Reproducing Piano Rolls.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416634"
+    },
+    {
+        "year": 2017,
+        "name": "Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415508"
+    },
+    {
+        "year": 2017,
+        "name": "Counterpoint by Convolution.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416370"
+    },
+    {
+        "year": 2017,
+        "name": "A Framework for Distributed Semantic Annotation of Musical Score: \u201cTake It to the Bridge!\u201d.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415894"
+    },
+    {
+        "year": 2017,
+        "name": "A Music Player with Song Selection Function for a Group of People.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414868"
+    },
+    {
+        "year": 2017,
+        "name": "A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415046"
+    },
+    {
+        "year": 2017,
+        "name": "A Statistical Analysis of Gamakas in Carnatic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417837"
+    },
+    {
+        "year": 2017,
+        "name": "Accurate Audio-to-Score Alignment for Expressive Violin Recordings.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416188"
+    },
+    {
+        "year": 2017,
+        "name": "Acoustic Features for Determining Goodness of Tabla Strokes.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416274"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Sample Detection in Polyphonic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418331"
+    },
+    {
+        "year": 2017,
+        "name": "Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418343"
+    },
+    {
+        "year": 2017,
+        "name": "Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418155"
+    },
+    {
+        "year": 2017,
+        "name": "Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417737"
+    },
+    {
+        "year": 2017,
+        "name": "Early MFCC and HPCP Fusion for Robust Cover Song Identification.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417331"
+    },
+    {
+        "year": 2017,
+        "name": "Exploring the Music Library Association Mailing List: A Text Mining Approach.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415824"
+    },
+    {
+        "year": 2017,
+        "name": "Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415520"
+    },
+    {
+        "year": 2017,
+        "name": "FMA: A Dataset for Music Analysis.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414728"
+    },
+    {
+        "year": 2017,
+        "name": "MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415990"
+    },
+    {
+        "year": 2017,
+        "name": "Modeling Harmony with Skip-Grams.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416196"
+    },
+    {
+        "year": 2017,
+        "name": "NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417917"
+    },
+    {
+        "year": 2017,
+        "name": "Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414940"
+    },
+    {
+        "year": 2017,
+        "name": "Piece Identification in Classical Piano Music Without Reference Scores.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417673"
+    },
+    {
+        "year": 2017,
+        "name": "PiPo, a Plugin Interface for Afferent Data Stream Processing Operators.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416912"
+    },
+    {
+        "year": 2017,
+        "name": "Ranking-Based Emotion Recognition for Experimental Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417475"
+    },
+    {
+        "year": 2017,
+        "name": "Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416330"
+    },
+    {
+        "year": 2017,
+        "name": "Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415632"
+    },
+    {
+        "year": 2017,
+        "name": "Towards Automatic Mispronunciation Detection in Singing.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418073"
+    },
+    {
+        "year": 2017,
+        "name": "Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416608"
+    },
+    {
+        "year": 2017,
+        "name": "A Metric for Music Notation Transcription Accuracy.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415830"
+    },
+    {
+        "year": 2017,
+        "name": "A Multiobjective Music Recommendation Approach for Aspect-Based Diversification.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417000"
+    },
+    {
+        "year": 2017,
+        "name": "A Study on LSTM Networks for Polyphonic Music Sequence Modelling.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415018"
+    },
+    {
+        "year": 2017,
+        "name": "Audio to Score Matching by Combining Phonetic and Duration Information.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415766"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415196"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Playlist Sequencing and Transitions.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417028"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Stylistic Composition of Bach Chorales with Deep LSTM.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416208"
+    },
+    {
+        "year": 2017,
+        "name": "Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417101"
+    },
+    {
+        "year": 2017,
+        "name": "Discourse Analysis of Lyric and Lyric-Based Classification of Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416946"
+    },
+    {
+        "year": 2017,
+        "name": "End-to-End Optical Music Recognition Using Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418333"
+    },
+    {
+        "year": 2017,
+        "name": "Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416436"
+    },
+    {
+        "year": 2017,
+        "name": "Freesound Datasets: A Platform for the Creation of Open Audio Datasets.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417159"
+    },
+    {
+        "year": 2017,
+        "name": "From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416886"
+    },
+    {
+        "year": 2017,
+        "name": "Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416848"
+    },
+    {
+        "year": 2017,
+        "name": "High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417901"
+    },
+    {
+        "year": 2017,
+        "name": "Identifying Raga Similarity Through Embeddings Learned from Compositions\u2019 Notation.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417032"
+    },
+    {
+        "year": 2017,
+        "name": "Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417929"
+    },
+    {
+        "year": 2017,
+        "name": "Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417421"
+    },
+    {
+        "year": 2017,
+        "name": "Local Interpretable Model-Agnostic Explanations for Music Content Analysis.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417387"
+    },
+    {
+        "year": 2017,
+        "name": "Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417749"
+    },
+    {
+        "year": 2017,
+        "name": "Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417671"
+    },
+    {
+        "year": 2017,
+        "name": "Onset Detection in Composition Items of Carnatic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414830"
+    },
+    {
+        "year": 2017,
+        "name": "Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417501"
+    },
+    {
+        "year": 2017,
+        "name": "The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415164"
+    },
+    {
+        "year": 2017,
+        "name": "\u201cI\u2019m at #Osheaga!\u201d: Listening to the Backchannel of a Music Festival on Twitter.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416352"
+    },
+    {
+        "year": 2017,
+        "name": "A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416204"
+    },
+    {
+        "year": 2017,
+        "name": "Analysis of Interactive Intonation in Unaccompanied SATB Ensembles.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418327"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415616"
+    },
+    {
+        "year": 2017,
+        "name": "Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415904"
+    },
+    {
+        "year": 2017,
+        "name": "Chord Generation from Symbolic Melody Using BLSTM Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417327"
+    },
+    {
+        "year": 2017,
+        "name": "Cover Song Identification with Metric Learning Using Distance as a Feature.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416556"
+    },
+    {
+        "year": 2017,
+        "name": "Examining Musical Meaning in Similarity Thresholds.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417721"
+    },
+    {
+        "year": 2017,
+        "name": "Exploring Tonal-Dramatic Relationships in Richard Wagner\u2019s Ring Cycle.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415760"
+    },
+    {
+        "year": 2017,
+        "name": "Feature Discovery for Sequential Prediction of Monophonic Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1418249"
+    },
+    {
+        "year": 2017,
+        "name": "Generating Nontrivial Melodies for Music as a Service.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1416336"
+    },
+    {
+        "year": 2017,
+        "name": "Geographical Origin Prediction of Folk Music Recordings from the United Kingdom.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417991"
+    },
+    {
+        "year": 2017,
+        "name": "In Search of the Consensus Among Musical Pattern Discovery Algorithms.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417105"
+    },
+    {
+        "year": 2017,
+        "name": "Informed Automatic Meter Analysis of Music Recordings.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415688"
+    },
+    {
+        "year": 2017,
+        "name": "Intelligibility of Sung Lyrics: A Pilot Study.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414730"
+    },
+    {
+        "year": 2017,
+        "name": "Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417241"
+    },
+    {
+        "year": 2017,
+        "name": "Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415086"
+    },
+    {
+        "year": 2017,
+        "name": "Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417769"
+    },
+    {
+        "year": 2017,
+        "name": "Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417685"
+    },
+    {
+        "year": 2017,
+        "name": "One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1417493"
+    },
+    {
+        "year": 2017,
+        "name": "Optical Music Recognition with Convolutional Sequence-to-Sequence Models.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415664"
+    },
+    {
+        "year": 2017,
+        "name": "Re-Visiting the Music Segmentation Problem with Crowdsourcing.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415944"
+    },
+    {
+        "year": 2017,
+        "name": "Singing Voice Separation with Deep U-Net Convolutional Networks.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1414934"
+    },
+    {
+        "year": 2017,
+        "name": "Sketching Sonata Form Structure in Selected Classical String Quartets.",
+        "description": "Description\n[TODO] Add abstract here.",
+        "url": "https://doi.org/10.5281/zenodo.1415020"
+    }
+]
